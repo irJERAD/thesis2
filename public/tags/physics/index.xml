@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics on These Is | my thoughts &amp; theories</title>
+    <link>http://thesis.jerad.xyz/tags/physics/</link>
+    <description>Recent content in Physics on These Is | my thoughts &amp; theories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://thesis.jerad.xyz/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Black Hole-New-World</title>
+      <link>http://thesis.jerad.xyz/post/blackholenewworld/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://thesis.jerad.xyz/post/blackholenewworld/</guid>
+      <description>Big Bag to Big FreezeAs our universe presses on past 13.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on These Is | my thoughts &amp; theories</title>
+    <link>http://thesis.jerad.xyz/categories/</link>
+    <description>Recent content in Categories on These Is | my thoughts &amp; theories</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://thesis.jerad.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cool Talk</title>
+      <link>http://thesis.jerad.xyz/categories/cool-talk/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://thesis.jerad.xyz/categories/cool-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ideas</title>
+      <link>http://thesis.jerad.xyz/categories/ideas/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://thesis.jerad.xyz/categories/ideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>http://thesis.jerad.xyz/categories/article/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>http://thesis.jerad.xyz/categories/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fashion</title>
+      <link>http://thesis.jerad.xyz/categories/fashion/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>http://thesis.jerad.xyz/categories/fashion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>http://thesis.jerad.xyz/categories/food/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>http://thesis.jerad.xyz/categories/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature</title>
+      <link>http://thesis.jerad.xyz/categories/nature/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>http://thesis.jerad.xyz/categories/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>http://thesis.jerad.xyz/categories/philosophy/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>http://thesis.jerad.xyz/categories/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valuable Idea</title>
+      <link>http://thesis.jerad.xyz/categories/valuable-idea/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>http://thesis.jerad.xyz/categories/valuable-idea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>http://thesis.jerad.xyz/categories/r/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>http://thesis.jerad.xyz/categories/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
